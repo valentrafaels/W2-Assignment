@@ -1,0 +1,17 @@
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\bin\Debug\net6.0-windows\W2_Assignment.exe
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\bin\Debug\net6.0-windows\W2_Assignment.deps.json
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\bin\Debug\net6.0-windows\W2_Assignment.runtimeconfig.json
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\bin\Debug\net6.0-windows\W2_Assignment.dll
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\bin\Debug\net6.0-windows\W2_Assignment.pdb
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\W2_Assignment.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\W2_Assignment.Form1.resources
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\W2_Assignment.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\W2_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\W2_Assignment.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\W2_Assignment.AssemblyInfo.cs
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\W2_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\W2_Assignment.dll
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\refint\W2_Assignment.dll
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\W2_Assignment.pdb
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\W2_Assignment.genruntimeconfig.cache
+C:\Users\valen\source\repos\W2_Assignment\W2_Assignment\obj\Debug\net6.0-windows\ref\W2_Assignment.dll
